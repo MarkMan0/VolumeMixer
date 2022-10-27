@@ -2,3 +2,7 @@
 	path = VolumeMixer_board
 	url = https://github.com/MarkMan0/VolumeMixer_board.git
 	branch = v1.x
+[submodule "VolumeMixer_PC"]
+	path = VolumeMixer_PC
+	url = https://github.com/MarkMan0/VolumeMixer_PC.git
+	branch = v1.x
