@@ -1,0 +1,4 @@
+[submodule "VolumeMixer_board"]
+	path = VolumeMixer_board
+	url = https://github.com/MarkMan0/VolumeMixer_board.git
+	branch = v1.x
