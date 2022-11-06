@@ -1,5 +1,6 @@
 # The VolumeMixer Project
 
+<img src="VolumeMixer_board/images/demo.gif" alt="demo" width="400px"/>
 
 ## Why
 Changing the volume of some apps is troublesome and requires switching to the application to change its volume. In some cases, it's not trivial to change the volume in the app itself. This device will allow you to change the volume of applications in an external display, as you would in the built-in volume mixer.
